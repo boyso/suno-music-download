@@ -52,7 +52,7 @@ export function DownloadForm() {
             <FormItem>
               <FormLabel>Download Suno Song</FormLabel>
               <FormControl>
-                <Input placeholder="https://app.suno.ai/song/b27fd-efb85c84..." {...field} />
+                <Input placeholder="https://suno.com/song/b27fd-efb85c84..." {...field} />
               </FormControl>
               <FormDescription>
                 Input the share link from Suno and download the MP3 file.
